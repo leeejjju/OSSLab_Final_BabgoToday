@@ -206,9 +206,6 @@ void memberList :: run(){
                     }
                 }
 
-
-
-                cin >> newC;
                 if(addCostToAllMember(newC) != 0) cout << "\nsuccedfully reflected!\n\n";
                 break;
             case 0:
@@ -277,12 +274,10 @@ int memberList :: addCostToSelectedMember(string name, int cost){
     }else m[i].cost += cost;
     
     return 1;
-
-    return 0;
 }
 
 int memberList :: addCostToAllMember(int cost){
-    //cout << "#addCostToAllMember\n";
+    cout << "#addCostToAllMember\n";
     if(m.empty()){
         cout << "[error] list is empty.\n";
         return 0;
