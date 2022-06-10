@@ -1,8 +1,6 @@
+# BabgoToday
 2022-1 Open-source Software Lab, Final Project. 22100579 LeeJinju
 
-
-
-# BabgoToday
 
 ### 1. What does this project do?
 This is 'BabgoToday' for Handong people :D
@@ -31,7 +29,7 @@ Students in Handong have many regular meal commitments called 'Babgo'. And every
 ### 5. Presentation Video(YouTube)
   [Youtube Link]
   
-  
+
 ### 6. Where can you get more help. if needed?
   Contact me for any questions or issue!-> 22100579@handong.ac.kr<br>
 
