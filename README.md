@@ -1,72 +1,39 @@
-<<<<<<< HEAD
-# OSSLab_Final_BabgoToday
+# BabgoToday
 2022-1 Open-source Software Lab, Final Project. 22100579 LeeJinju
 
 
+### 1. What does this project do?
+This is 'BabgoToday' for Handong people :D
 
-# BabgoToday
 
-### 1. Project 
-[rough description]
-1. function 1
-2. function 2
-3. ...
-4. ...
+this project can...
+1. Provide the random selection helper of menu for today. The selection range is customizable.
+2. Calculate the amount of the individual's selected menu and the amount to be settled together to obtain the amount that each person needs to pay.
 
-### 2. Usefulness
-???
-???
 
-### 3. How To Use 
-1. git clone https://github.com/leeejjju/OSSLab_Final_BabgoToday.git <Repository URL>
-2. ???
-3. Use '????' to open the website (use the ip address that raspberry pi uses)
-4. Use the website 
+### 2. Why is this project useful?
+Students in Handong have many regular meal commitments called 'Babgo'. And every Babgo time, we must do the repetitive task of selecting a meal menu and settling the cost. The project provides the web page that contain convenience features that make such repetitive tasks more convenient.
+
+
+### 3. How to get started?
+1. git clone https://github.com/leeejjju/OSSLab_Final_BabgoToday.git on your raspberry pi OS.
+2. Change directory to "OSSLab_Final_BabgoToday", and enter "./run" for execution.
+3. Use the features provided by the program.
+
 
 ### 4. Contributions
-  - Used the project, ???
-  - Changes
-    #### 1. Changed blah blah...
+
+  - I've implemented it myself.
 
 
-### 5. Project Explanation and Demo
+### 5. Presentation Video(YouTube)
   [Youtube Link]
   
-### 6. Help 
-=======
-# OSSLab_Final_BabgoToday
-2022-1 Open-source Software Lab, Final Project. 22100579 LeeJinju
+
+### 6. Where can you get more help. if needed?
+  Contact me for any questions or issue!-> 22100579@handong.ac.kr<br>
 
 
 
-# BabgoToday
-
-### 1. Project 
-[rough description]
-1. function 1
-2. function 2
-3. ...
-4. ...
-
-### 2. Usefulness
-???
-???
-
-### 3. How To Use 
-1. git clone https://github.com/leeejjju/OSSLab_Final_BabgoToday.git <Repository URL>
-2. ???
-3. Use '????' to open the website (use the ip address that raspberry pi uses)
-4. Use the website 
-
-### 4. Contributions
-  - Used the project, ???
-  - Changes
-    #### 1. Changed blah blah...
 
 
-### 5. Project Explanation and Demo
-  [Youtube Link]
-  
-### 6. Help 
->>>>>>> ac715b58acf93c7b175de39860986590257bee83
-  Please email me for any questions or comments--> 22100579@handong.ac.kr<br>
